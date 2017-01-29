@@ -1,3 +1,11 @@
+# HandlebarsColors
+
+This is an assignment from Prime Digital Academy using handlebars, JSON and Ajax.
+
+The following is the original text from the README file writen by our Instructors.
+
+-------------------------------------------------------------------------
+
 # prime_peer_ajax_01
 Hello fellow Primers!
 
